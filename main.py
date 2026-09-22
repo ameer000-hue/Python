@@ -1,2 +1,2 @@
-print("Hello king")
+print("Hello king YO")
 print("Ameer")
